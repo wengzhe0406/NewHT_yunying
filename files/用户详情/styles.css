@@ -767,7 +767,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'FontAwesome';
-  font-weight:404;
+  font-weight:406;
   font-style:normal;
 }
 #u6369 {
@@ -777,7 +777,7 @@
   width:240px;
   height:225px;
   font-family:'FontAwesome';
-  font-weight:404;
+  font-weight:406;
   font-style:normal;
 }
 #u6370 {
@@ -1197,7 +1197,7 @@
   width:307px;
   height:45px;
   font-family:'微软雅黑 Regular', '微软雅黑';
-  font-weight:400;
+  font-weight:401;
   font-style:normal;
   text-align:left;
   line-height:28px;
@@ -1283,9 +1283,8 @@
 #u6409 {
   position:absolute;
   left:2px;
-  top:14px;
+  top:8px;
   width:101px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u6410_img {
@@ -1310,9 +1309,8 @@
 #u6411 {
   position:absolute;
   left:10px;
-  top:14px;
+  top:8px;
   width:295px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u6412_div {
